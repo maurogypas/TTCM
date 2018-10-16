@@ -1,0 +1,16 @@
+ forward states by 0: 0 4 1 5 2 6 3 7
+ forward states by 1: 1 5 0 4 3 7 2 6
+ forward states by 2: 2 6 3 7 0 4 1 5
+ forward states by 3: 3 7 2 6 1 5 0 4
+   forward outs by 0: 0 1 0 1 0 1 0 1
+   forward outs by 1: 2 3 2 3 2 3 2 3
+   forward outs by 2: 4 5 4 5 4 5 4 5
+   forward outs by 3: 6 7 6 7 6 7 6 7
+    back states by 0: 0 2 4 6 1 3 5 7
+    back states by 1: 2 0 6 4 3 1 7 5
+    back states by 2: 4 6 0 2 5 7 1 3
+    back states by 3: 6 4 2 0 7 5 3 1
+      back outs by 0: 0 0 0 0 1 1 1 1
+      back outs by 1: 2 2 2 2 3 3 3 3
+      back outs by 2: 4 4 4 4 5 5 5 5
+      back outs by 3: 6 6 6 6 7 7 7 7
